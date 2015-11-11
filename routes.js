@@ -11,6 +11,7 @@ var siteIndex       = require("./pcontrollers/site/index");
 
 var clientAuth      = require("./pcontrollers/client/auth");
 var clientIndex     = require("./pcontrollers/client/index");
+var clientLogin     = require("./pcontrollers/client/login");
 
 var adminAuth      = require("./pcontrollers/admin/auth");
 var adminIndex     = require("./pcontrollers/admin/index");
@@ -27,6 +28,10 @@ module.exports = function (app) {
     app.route("/").all(clientAuth.authentication).get(clientIndex.index);
     app.route("/client/").all(clientAuth.authentication).get(clientIndex.index);
     app.route("/client/index").all(clientAuth.authentication).get(clientIndex.index);
+
+    app.route("/client/login").all(clientAuth.notAuthentication).get(clientLogin.login);//GET       登录界面
+    app.route("/client/logout").get(clientLogin.logout);//POST    登录
+    app.route("/client/signin").all(clientAuth.notAuthentication).post(clientLogin.signin);//GET    登出操作
     /**[client路由的处理-end]******************************************************************/
 
 

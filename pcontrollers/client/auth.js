@@ -15,7 +15,7 @@ exports.authentication = function (req, res, next) {
         JSON.stringify(req.session.clientUser));
     if (!req.session.clientUser) {
         req.session.error='请先登陆';
-        return res.redirect('client/login');
+        return res.redirect('/client/login');
     }
     next();
 };
@@ -30,7 +30,7 @@ exports.authentication = function (req, res, next) {
 exports.notAuthentication = function (req, res, next) {
     debugPclient(" /client/auth.js  ==== notAuthentication,session is not need!");
     if (req.session.clientUser) {
-        return res.redirect('client/index');
+        return res.redirect('/client/index');
     }
     next();
 };
