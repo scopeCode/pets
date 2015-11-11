@@ -41,6 +41,15 @@ var User = mysqlCient.sequelize.define('T_B_USER',
                 return common.dateFormat("yyyy-MM-dd HH:mm:ss",this.getDataValue('REGISTER_TIME'));
             },
             comment:'注册的时间,注意是否是需要进行时区的设定.'
+        },
+        registerEmail:
+        {
+            type:mysqlCient.Sequelize.STRING,
+            field:"REGISTER_EMAIL",
+            validate:{
+                is:/^(((13[0-9]{1})|(14[0-9]{1})|(15[0-9]{1})|(17[0-9]{1})|(18[0-9]{1}))+\d{8})$/
+            },
+            comment:'注册邮箱，邮箱验证及召回密码'
         }
     },
     {

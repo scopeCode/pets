@@ -27,6 +27,12 @@ exports.login = function(req,res,next){
  */
 exports.signin = function(req,res,next){
     try{
+
+
+        /*
+        * form 表单提交，如何有问题 则
+        * */
+
         debugPsite("client/login");
         var user = {
             uid:12,
