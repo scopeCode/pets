@@ -1,0 +1,242 @@
+[2015-11-11 11:06:30.496] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.523] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.527] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.529] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.532] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.535] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.538] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.543] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.545] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.547] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.553] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.555] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.558] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.562] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.565] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.569] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.572] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.575] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.578] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.581] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:06:30.583] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-11 11:10:17.247] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\NewWork\git\pets\routes.js:16:19
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7

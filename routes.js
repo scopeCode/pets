@@ -4,10 +4,28 @@
  */
 
 var common  = require("./common/common");
+var errors  = require("./pcontrollers/errors/errors");
 
 module.exports = function (app) {
 
+    /**[site路由的处理-start]****************************************************************/
 
+    /**[site路由的处理-end]******************************************************************/
+
+
+    /**[client路由的处理-start]****************************************************************/
+
+    /**[client路由的处理-end]******************************************************************/
+
+
+    /**[admin路由的处理-start]****************************************************************/
+
+    /**[admin路由的处理-end]******************************************************************/
+
+
+    /**[全局错误处理--start]******************************************************************/
+    app.route("/errors/404").get(errors.show404);
+    app.route("/errors/500").get(errors.show500);
     //404错误页面的处理
     app.use(function(req, res, next) {
         var err = new Error('Not Found');err.status = 404;next(err);
@@ -27,14 +45,14 @@ module.exports = function (app) {
                 message: err.message,
                 error: {}
             };
-            return res.redirect('/404');
+            return res.redirect('/errors/404');
         }else if(500 == status){
             req.session.error={
                 title:"500错误",
                 message: err.message,
                 error: {}
             };
-            return res.redirect('/500');
+            return res.redirect('/errors/500');
         }
         next();
     });
@@ -43,4 +61,5 @@ module.exports = function (app) {
     process.on("uncaughtException", function (err) {
         global.logger.error("[uncaughtException]:"+err);
     });
-}
+    /**[全局错误处理--end]***********************************************************************/
+};
