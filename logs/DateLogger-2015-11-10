@@ -1,0 +1,231 @@
+[2015-11-10 21:19:55.654] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.668] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.671] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.908] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.911] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.915] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.919] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.923] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.926] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.931] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.935] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.938] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.943] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.945] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.949] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.951] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.958] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.971] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.984] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:55.996] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-10 21:19:56.008] [ERROR] dev-logger: - [error]:Error: Not Found
+    at e:\webstorm\pets\routes.js:13:19
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (e:\webstorm\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (e:\webstorm\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (e:\webstorm\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (e:\webstorm\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (e:\webstorm\pets\node_modules\express\lib\router\index.js:312:13)
+    at e:\webstorm\pets\node_modules\express\lib\router\index.js:280:7
