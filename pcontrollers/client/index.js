@@ -1,8 +1,6 @@
 /**
  * Created by WG on 2015/11/11.
- * 网站首页的 控制器
  */
-
 
 /**
  * show 网站首页 index page
@@ -13,8 +11,8 @@
  */
 exports.index = function(req,res,next){
     try{
-        debugPsite("site/index");
-        res.render("site/index");
+        debugPsite("client/index");
+        res.render("client/index");
     }catch(ex){
         next(ex);
     }

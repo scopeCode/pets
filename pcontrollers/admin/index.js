@@ -1,6 +1,5 @@
 /**
  * Created by WG on 2015/11/11.
- * 网站首页的 控制器
  */
 
 
@@ -13,8 +12,8 @@
  */
 exports.index = function(req,res,next){
     try{
-        debugPsite("site/index");
-        res.render("site/index");
+        debugPsite("admin/index");
+        res.render("admin/index");
     }catch(ex){
         next(ex);
     }

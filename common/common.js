@@ -4,7 +4,8 @@
 /**
  * Created by WG on 2015/11/5.
  */
-var crypto = require('crypto');
+var crypto = require("crypto");
+var debug  = require("debug");
 
 exports.md5 = function(content){
     var md5 = crypto.createHash('md5');
@@ -61,6 +62,27 @@ exports.success = function(data){
 exports.error = function(msg){
     return {"result":0,"data":{},"msg":msg};
 };
+
+/**[debug-setting-start]*********************************************************/
+var debugPcontroller    = debug("pcontroller");
+var debugPmodels        = debug("pmodels");
+var debugPdao           = debug("pdao");
+var debugPTest          = debug("test");
+var debugPsite          = debug("site");
+var debugPadmin         = debug("admin");
+var debugPclient        = debug("client");
+var debugPother         = debug("other");
+
+//全局设定debug变量
+global.debugPcontroller = debugPcontroller;
+global.debugPmodels     = debugPmodels;
+global.debugPdao        = debugPdao;
+global.debugPTest       = debugPTest;
+global.debugPsite       = debugPsite;
+global.debugPadmin      = debugPadmin;
+global.debugPclient     = debugPclient;
+global.debugPother      = debugPother;
+/**[debug-setting-end]***********************************************************/
 
 function isObject(arg) {
     return typeof arg === 'object' && arg !== null;

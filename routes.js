@@ -3,23 +3,36 @@
  * 所有的访问路径的承载者
  */
 
-var common  = require("./common/common");
-var errors  = require("./pcontrollers/errors/errors");
+var common      = require("./common/common");
+var errors          = require("./pcontrollers/errors/errors");
+
+var siteIndex       = require("./pcontrollers/site/index");
+
+
+var clientAuth      = require("./pcontrollers/client/auth");
+var clientIndex     = require("./pcontrollers/client/index");
+
+var adminAuth      = require("./pcontrollers/admin/auth");
+var adminIndex     = require("./pcontrollers/admin/index");
 
 module.exports = function (app) {
 
     /**[site路由的处理-start]****************************************************************/
-
+    app.route("/site/").get(siteIndex.index);
+    app.route("/site/index").get(siteIndex.index);
     /**[site路由的处理-end]******************************************************************/
 
 
     /**[client路由的处理-start]****************************************************************/
-
+    app.route("/").all(clientAuth.authentication).get(clientIndex.index);
+    app.route("/client/").all(clientAuth.authentication).get(clientIndex.index);
+    app.route("/client/index").all(clientAuth.authentication).get(clientIndex.index);
     /**[client路由的处理-end]******************************************************************/
 
 
     /**[admin路由的处理-start]****************************************************************/
-
+    app.route("/admin/").all(adminAuth.authentication).get(adminIndex.index);
+    app.route("/admin/index").all(adminAuth.authentication).get(adminIndex.index);
     /**[admin路由的处理-end]******************************************************************/
 
 
@@ -28,7 +41,9 @@ module.exports = function (app) {
     app.route("/errors/500").get(errors.show500);
     //404错误页面的处理
     app.use(function(req, res, next) {
-        var err = new Error('Not Found');err.status = 404;next(err);
+        var err = new Error('Not Found');
+        err.status = 404;
+        next(err);
     });
     //其他错误的处理
     app.use(function(err, req, res, next) {
@@ -36,9 +51,8 @@ module.exports = function (app) {
         res.status(status);
 
         if(err){
-            global.logger.error("[error]:"+common.stringify(err));
+            logger.error("[error]:"+common.stringify(err));
         }
-
         if(404 == status){
             req.session.error={
                 title:"404错误",
@@ -56,10 +70,9 @@ module.exports = function (app) {
         }
         next();
     });
-
     //应用程序出错执行的处理
     process.on("uncaughtException", function (err) {
-        global.logger.error("[uncaughtException]:"+err);
+        logger.error("[uncaughtException]:"+err);
     });
     /**[全局错误处理--end]***********************************************************************/
 };

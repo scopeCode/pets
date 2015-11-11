@@ -5,7 +5,10 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var session = require('cookie-session');
 var routes = require('./routes');
+
+//需要优化的地方
 var logger = require("pet/log/index");
+global.logger = logger.logger("pets");
 
 var app = express();
 
@@ -28,8 +31,5 @@ app.use(session({
   }
 }));
 
-global.logger = logger.logger("dev-logger:");
-
 routes(app);
-
 module.exports = app;
