@@ -1,0 +1,82 @@
+[2015-11-12 14:25:49.720] [ERROR] pets - [error]:Error: Not Found
+    at E:\NewWork\git\pets\routes.js:49:19
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (E:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-12 14:25:49.731] [ERROR] pets - [error]:Error: Not Found
+    at E:\NewWork\git\pets\routes.js:49:19
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (E:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-12 14:25:52.226] [ERROR] pets - [error]:TypeError: req.session.destroy is not a function
+    at exports.logout (E:\NewWork\git\pets\pcontrollers\client\login.js:59:21)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\route.js:131:13)
+    at Route.dispatch (E:\NewWork\git\pets\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:277:22
+    at Function.process_params (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (E:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+[2015-11-12 14:29:26.833] [ERROR] pets - [error]:Error: Not Found
+    at E:\NewWork\git\pets\routes.js:49:19
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+    at Function.process_params (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:330:12)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:271:10)
+    at _cookieSession (E:\NewWork\git\pets\node_modules\cookie-session\index.js:124:5)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\NewWork\git\pets\node_modules\express\lib\router\index.js:312:13)
+    at E:\NewWork\git\pets\node_modules\express\lib\router\index.js:280:7
+[2015-11-12 17:11:59.518] [ERROR] pets - [error]:ReferenceError: E:\NewWork\git\pets\views\client\index.html:7
+    5|   <title>个人的首页</title>
+    6|     <!-- style -->
+ >> 7|     <%- Loader("/public/stylesheets/login.min.css")
+    8|     .css("/public/libs/bootstrap/css/bootstrap.min.css")
+    9|     .css("/public/stylesheets/login.css")
+    10|     .done({},cdn,0)
+
+Loader is not defined
+    at eval (eval at <anonymous> (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:464:12), <anonymous>:11:16)
+    at returnedFn (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:493:17)
+    at View.exports.renderFile [as engine] (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:350:31)
+    at View.render (E:\NewWork\git\pets\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\NewWork\git\pets\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\NewWork\git\pets\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\NewWork\git\pets\node_modules\express\lib\response.js:961:7)
+    at exports.index (E:\NewWork\git\pets\pcontrollers\client\index.js:15:13)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\route.js:131:13)
+[2015-11-12 17:12:47.142] [ERROR] pets - [error]:ReferenceError: E:\NewWork\git\pets\views\client\index.html:7
+    5|   <title>个人的首页</title>
+    6|     <!-- style -->
+ >> 7|     <%- Loader("/public/stylesheets/style.css").done({},cdn,0)%>
+    8| </head>
+    9| <body>
+    10|     个人的首页<br/>
+
+Loader is not defined
+    at eval (eval at <anonymous> (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:464:12), <anonymous>:11:16)
+    at returnedFn (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:493:17)
+    at View.exports.renderFile [as engine] (E:\NewWork\git\pets\node_modules\ejs\lib\ejs.js:350:31)
+    at View.render (E:\NewWork\git\pets\node_modules\express\lib\view.js:126:8)
+    at tryRender (E:\NewWork\git\pets\node_modules\express\lib\application.js:639:10)
+    at EventEmitter.render (E:\NewWork\git\pets\node_modules\express\lib\application.js:591:3)
+    at ServerResponse.render (E:\NewWork\git\pets\node_modules\express\lib\response.js:961:7)
+    at exports.index (E:\NewWork\git\pets\pcontrollers\client\index.js:15:13)
+    at Layer.handle [as handle_request] (E:\NewWork\git\pets\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\NewWork\git\pets\node_modules\express\lib\router\route.js:131:13)

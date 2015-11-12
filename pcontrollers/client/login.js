@@ -54,9 +54,10 @@ exports.signin = function(req,res,next){
  */
 exports.logout = function(req,res,next){
     try{
-        debugPsite("client/logout");
+        debugPsite("client/logout obj="+(req.session.clientUser)?req.session.clientUser:"NULL");
+
         req.session.clientUser = null;
-        return res.redirect('/client/login');
+        res.redirect('/client/login');
     }catch(ex){
         next(ex);
     }
